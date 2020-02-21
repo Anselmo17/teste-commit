@@ -1,4 +1,6 @@
 
+
+===== inicio =====
 teste primeiro commit 
 teste segundo commit 
 teste terceiro commit
@@ -15,4 +17,4 @@ teste terceiro commit
 teste quarto commit
 teste quinto commit 
 
-
+==== fim ======
