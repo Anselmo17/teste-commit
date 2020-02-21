@@ -4,17 +4,4 @@
 teste primeiro commit 
 teste segundo commit 
 teste terceiro commit
-teste quarto commit
-teste quinto commit 
-teste primeiro commit 
-teste segundo commit 
-teste terceiro commit
-teste quarto commit
-teste quinto commit 
-teste primeiro commit 
-teste segundo commit 
-teste terceiro commit
-teste quarto commit
-teste quinto commit 
-
 ==== fim ======
